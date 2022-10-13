@@ -1,0 +1,14 @@
+{
+    "json.schemas": [
+        
+
+    
+    ],
+
+    "emmet.triggerExpansionOnTab": true,
+    
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "editor.tabSize": 2
+}

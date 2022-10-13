@@ -1,0 +1,2 @@
+class Naomaru < ApplicationRecord
+end
